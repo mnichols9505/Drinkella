@@ -35,3 +35,8 @@ body {
 .nav1 a:hover {
     background-color: #111;
 }
+
+#aboutuslogo {
+   width: 100px;
+   height: 100px;
+}
