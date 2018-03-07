@@ -1,17 +1,21 @@
 #header{
-    color: dodgerblue;
-    font-family: 'Reenie Beanie', cursive;
+    color: darkblue;
+    font-family: 'Nosifer', cursive;
     font-size-adjust: initial;
     font-size: 100px;
     margin-top: 0px;
-    margin-left: 20px;
     text-align: center;
-    border: 12px dotted;
+    border: 12px double;
+    background: url("https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/4/4c/Rain_for_Rain.gif/revision/latest?cb=20160714232924");
 
 }
 body {
-    /*background: url("http://img75.laughinggif.com/pic/HTTPS9tZWRpYS5naXBoeS5jb20vbWVkaWEvM282b3ptRjRaR09HM0RXWnlnL2dpcGh5LmdpZgloglog.gif");*/
+  background: cornflowerblue;
 
+}
+footer{
+    color: red;
+    font-family: 'Libre Barcode 39 Text', cursive;
 }
 
 #navagation{
