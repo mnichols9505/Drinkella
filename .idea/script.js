@@ -11,6 +11,7 @@ window.onload = function() {
         if (document.body) {
             document.body.background = "https://s-media-cache-ak0.pinimg.com/originals/5f/c5/7b/5fc57b392c2c5c2423e527d60fa3e1d1.gif";
         }
+
     }
 }
 
