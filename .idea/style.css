@@ -1,11 +1,15 @@
 #header{
-    color: cadetblue;
+    color: dodgerblue;
     font-family: 'Reenie Beanie', cursive;
     font-size-adjust: initial;
     font-size: 100px;
     margin-top: 0px;
     margin-left: 20px;
     text-align: center;
-    border:dot-dot-dash
+    border: 12px dotted;
 
+}
+body {
+    background: url("https://orig00.deviantart.net/8f60/f/2015/332/5/0/undertale___rain_by_tiviprojecterror-d9idpvy.gif");
+    background-repeat: space;
 }
