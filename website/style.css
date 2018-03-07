@@ -13,3 +13,25 @@ body {
     /*background: url("http://img75.laughinggif.com/pic/HTTPS9tZWRpYS5naXBoeS5jb20vbWVkaWEvM282b3ptRjRaR09HM0RXWnlnL2dpcGh5LmdpZgloglog.gif");*/
 
 }
+
+#navagation{
+ list-style-type: none;
+ margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.nav1{
+    float:left;
+    border-right: 1px solid #bbb;
+}
+.nav1 a{
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.nav1 a:hover {
+    background-color: #111;
+}
