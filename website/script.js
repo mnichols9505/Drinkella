@@ -2,7 +2,7 @@
 window.onload = function() {
 
     var currentTime = new Date().getHours();
-    if (currentTime == 15) {
+    if (currentTime == 1) {
         if (document.body) {
             document.body.background = "http://img75.laughinggif.com/pic/HTTPS9tZWRpYS5naXBoeS5jb20vbWVkaWEvM282b3ptRjRaR09HM0RXWnlnL2dpcGh5LmdpZgloglog.gif";
         }

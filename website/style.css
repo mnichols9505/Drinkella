@@ -7,12 +7,16 @@
     text-align: center;
     border: 12px double;
     background: url("https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/4/4c/Rain_for_Rain.gif/revision/latest?cb=20160714232924");
-
+    margin: 0px;
 }
 #item{
     height: 400px;
     width: 400px;
     top: 100px;
+}
+
+.mainparagraphus{
+    color: white;
 }
 
 body {
