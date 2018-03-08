@@ -1,5 +1,5 @@
 #header{
-    color: cornflowerblue;
+    color: #1DF6FF;
     font-family: 'Nosifer', cursive;
     font-size-adjust: initial;
     font-size: 100px;
@@ -13,6 +13,8 @@
     height: 400px;
     width: 400px;
     top: 100px;
+    alignment: center;
+
 }
 
 .mainparagraphus{
@@ -20,7 +22,7 @@
 }
 
 body {
-  background: darkslateblue;
+  background: #98C4C9;
 
 }
 footer{
