@@ -15,4 +15,28 @@ window.onload = function() {
     }
 
 }
+function growText() {
+
+    var text= document.getElementById("text1");
+
+    if( text.style.fontSize == "30px" ){
+
+        text.style.fontSize = "15px";
+    }
+    else {
+        text.style.fontSize = "30px";
+    }
+
+
+}
+function growText2(){
+    var text1= document.getElementById("text2");
+
+    if(text1.style.fontSize == "30px"){
+        text1.style.fontSize = "15px";
+    }else{
+        text1.style.fontSize = "30px";
+    }
+}
+
 
