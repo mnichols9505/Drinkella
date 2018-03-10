@@ -63,4 +63,17 @@ footer{
    width: 200px;
    height: 208px;
 }
+#contactAbout h2{
+    color: whitesmoke;
+    text-shadow: 2px 2px 8px #111111;
+    text-align: center;
+}
+#contactAbout p{
+    color: whitesmoke;
+    text-align: center;
+
+}
+#note{
+    font-size: 8px;
+}
 
