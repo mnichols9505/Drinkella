@@ -1,5 +1,5 @@
 #header{
-    color: #1DF6FF;
+    color: #ADF8FF;
     font-family: 'Nosifer', cursive;
     font-size-adjust: initial;
     font-size: 100px;
@@ -18,11 +18,13 @@
 }
 
 .mainparagraphus{
-    color: white;
+    color: black;
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 22px;
 }
 
 body {
-  background: #98C4C9;
+  background: #55B3D7;
 
 }
 footer{
@@ -33,9 +35,11 @@ footer{
 #navagation{
  list-style-type: none;
  margin: 0px;
+    margin-top: 10px;
     padding: 0px;
     overflow: hidden;
-    background-color: #333;
+    background-color: #FFDFC9;
+
 }
 .nav1{
     float:left;
@@ -47,9 +51,12 @@ footer{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    background-color: #FFDFC9;
+    color: #111111;
+    alignment: center;
 }
 .nav1 a:hover {
-    background-color: #111;
+    background-color: #B29C8D;
 }
 
 #aboutuslogo {
