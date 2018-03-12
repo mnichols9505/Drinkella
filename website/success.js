@@ -8,6 +8,7 @@ window.onload = function() {
     canvas.style.border = "1px solid";
 
 
+
     var body = document.getElementsByTagName("body")[0];
     body.appendChild(canvas);
 
