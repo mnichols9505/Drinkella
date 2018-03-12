@@ -27,6 +27,38 @@
     top: 20px;
     width: 50%;
 }
+#waterheater{
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#infuser{
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#mixer{
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#ice{
+    width: 100px;
+    height: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 #aboutuslogo{
     /*border: #ADF8FF dotted 4px;*/
