@@ -82,6 +82,9 @@
 #div{
     padding: 10px 10px 10px 10px;
 }
+#about{
+    font-size: 35px;
+}
 .des{
     color: black;
     font-family:'Neucha', cursive;
