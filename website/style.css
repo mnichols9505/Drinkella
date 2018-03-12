@@ -65,10 +65,22 @@
 .mainparagraphus{
     color: black;
     font-family:'Neucha', cursive;
+
     font-size: 22px;
     background: #ADF8FF;
     opacity: 0.5;
     border: white dotted 5px;
+}
+.mainparagraphus:hover{
+    color: black;
+    font-family:'Neucha', cursive;
+    font-size: 22px;
+    background: #ADF8FF;
+    opacity: 10;
+    border: white dotted 5px;
+}
+#div{
+    padding: 10px 10px 10px 10px;
 }
 .des{
     color: black;
