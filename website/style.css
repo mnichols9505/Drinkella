@@ -76,7 +76,10 @@
 }
 
 body {
-  background: #55B3D7;
+ /* background: #55B3D7;*/
+    background-image:url("Images/rainback.gif");
+    background-color: darkgrey;
+
 
 }
 footer{
@@ -90,7 +93,7 @@ footer{
     margin-top: 10px;
     padding: 0px;
     overflow: hidden;
-    background-color: #FFDFC9;
+    background-color: white;
 
 }
 .nav1{
@@ -103,7 +106,7 @@ footer{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: #FFDFC9;
+    background-color: white;
     color: #111111;
     alignment: center;
 }
@@ -183,5 +186,16 @@ h2{
     text-shadow: 2px 2px 8px #111111;
     text-align: center;
 }
+h1{
+    color: #f2d15c;
+    text-shadow: 2px 2px 8px #111111;
+    text-align: center;
+    font-family: "Book Antiqua";
+}
 
 
+.mySlides{
+    width: 1000px;
+    height: 500px;
+    border: 10px groove;
+}
