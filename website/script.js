@@ -39,6 +39,15 @@ function growText2(){
     }
 }
 
+function growText3() {
+    var text3 = document.getElementById("text3");
+    if(text3.style.fontSize == "100px"){
+        text3.style.fontSize = "15px";
+    }else {
+        text3.style.fontSize = "100px";
+    }
+}
+
 var slideIndex = 1;
 
 
