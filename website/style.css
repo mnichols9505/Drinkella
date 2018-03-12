@@ -9,19 +9,23 @@
     background: url("https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/4/4c/Rain_for_Rain.gif/revision/latest?cb=20160714232924");
     margin: 0px;
 }
-#item{
-    height: 400px;
-    width: 400px;
-    top: 100px;
-    alignment: center;
 
-}
 #quote{
     color: white;
 }
 #bartitle{
     font-size: 30px;
     font-family:'Neucha', cursive;
+}
+#slide{
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 20px;
+    width: 50%;
 }
 
 #aboutuslogo{
