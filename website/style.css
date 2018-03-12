@@ -83,12 +83,22 @@ footer{
     color: whitesmoke;
     text-shadow: 2px 2px 8px #111111;
     text-align: center;
+    padding: 2%;
 }
 #contactAbout p{
     color: whitesmoke;
     text-align: center;
 
 }
+#subAbout{
+    margin-top: 4.5%;
+    padding-left: 1%;
+    border: 4px groove;
+    width: 40%;
+    overflow: auto;
+
+}
+
 #note{
     font-size: 8px;
 }
@@ -112,4 +122,25 @@ tr:nth-child(even){
 tr:hover {
     background-color: cadetblue;
 }
+#specH{
+    color: whitesmoke;
+    text-shadow: 2px 2px 8px #111111;
+    text-align: center;
+}
+#specP{
+    color: whitesmoke;
+    text-align: center;
+
+}
+#techSupport{
+
+  float: left;
+    overflow:auto;
+    margin-left: 12%;
+    margin-right: 3%;
+    border: 4px groove;
+
+
+}
+
 
