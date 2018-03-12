@@ -80,10 +80,6 @@ body {
 
 }
 
-footer {
-    display: inline-block;
-}
-
 #text3 {
     color: red;
     font-family: 'Libre Barcode 39 Text', cursive;
@@ -225,4 +221,5 @@ width: 100%;
 
 .info {
     display: inline-block;
+    margin-left: 50%;
 }
