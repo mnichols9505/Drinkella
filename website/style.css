@@ -74,6 +74,12 @@
     font-family:'Neucha', cursive;
     font-size: 22px;
 }
+.des{
+    color: black;
+    font-family:'Neucha', cursive;
+    font-size: 22px;
+    text-align: center;
+}
 
 body {
  /* background: #55B3D7;*/
