@@ -292,10 +292,12 @@ width: 100%;
 
 
 .info {
-    /*display: inline-block;*/
+   /* display: inline-block;*/
     margin-left: 50%;
 }
 #bartitle{
     margin-right: 53%;
 }
-
+.tex{
+   text-align: center;
+}
