@@ -11,6 +11,12 @@
 }
 #specP{
     font-family:'Neucha', cursive;
+    color: black;
+    text-align: center;
+    text-size: 70px;
+    background: #ADF8FF;
+    opacity: 10;
+    border: white dotted 5px;
 }
 
 #quote{
@@ -85,6 +91,16 @@
 #about{
     font-size: 35px;
 }
+#specsTable{
+    background: #ADF8FF;
+    opacity: 0.5;
+    border: white dotted 5px;
+}
+#specsTable{
+    background: #ADF8FF;
+    opacity: 10;
+    border: white dotted 5px;
+}
 .des{
     color: black;
     font-family:'Neucha', cursive;
@@ -155,10 +171,19 @@ body {
     padding: 2%;
 }
 #contactAbout p{
-    color: whitesmoke;
+    color: white;
     text-align: center;
+    font-family:'Neucha', cursive;
+    text-size: 44px;
 
 }
+#contactAbout{
+    color: whitesmoke;
+    text-align: center;
+    background: cornflowerblue;
+    text-size: 44px;
+}
+
 #subAbout{
     margin-top: 4.5%;
     padding-left: 1%;
@@ -166,13 +191,23 @@ body {
     width: 40%;
     overflow: auto;
 
+
+}
+#contactUs{
+    background: cornflowerblue;
 }
 
 #note{
-    font-size: 8px;
+    font-size: 13px;
 }
 #specsTable{
     width: 100%;
+}
+#contact{
+    text-size: 44px;
+}
+#contact2{
+    text-size: 44px;
 }
 table{
     font-family: arial,sans-serif;
@@ -196,11 +231,7 @@ tr:hover {
     text-shadow: 2px 2px 8px #111111;
     text-align: center;
 }
-#specP{
-    color: whitesmoke;
-    text-align: center;
 
-}
 #techSupport{
 
   float: left;
